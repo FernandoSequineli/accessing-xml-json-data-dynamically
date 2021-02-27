@@ -6,7 +6,7 @@ It's an easy example of how to access XML and JSON data through HTML.
 
 
 <br>
-<h1 id="tools">Made Using :wrench:</h1>
+<h4 id="tools">Made Using :wrench:</h4>
 
 * HTML
 * AJAX
